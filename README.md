@@ -6,9 +6,7 @@
 <h2>📜 Certifications</h2>
 
 - [Cisco Cybersecurity (Scp)]![Screenshot_6-8-2024_72238_](https://github.com/user-attachments/assets/c2a040e5-aa4d-4a85-92e9-852f52931917)
-- [Cisco compTIA Network +](https://github.com/Hackergwagfile:///C:/Users/HP/Downloads/IrohaRobert%20Bobby-Network%20Essentia-certificate.pdf)
-
-
+- [Cisco compTIA Network +]![Screenshot_6-8-2024_7133_](https://github.com/user-attachments/assets/00283b34-30c7-4e1e-ba68-db769a9e2617)
 
 <h2>📺 Popular YouTube Videos</h2>
 
