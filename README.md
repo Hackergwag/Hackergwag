@@ -10,6 +10,7 @@
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
   - [Hardwarefix](https://github.com/Hackergwag/hardwarefix/blob/main/README.md)
   - [Sound Engineering Services](https://github.com/Hackergwag/soundengineering/blob/main/README.md)
+  - [Video Coverage](https://github.com/Hackergwag/Videocoverage/blob/main/README.md)
   
 <h2>📜 Certifications</h2>
 
