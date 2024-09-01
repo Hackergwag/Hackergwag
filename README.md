@@ -14,7 +14,7 @@
 
 - [Video Tutorials Explaining Integrity Check In Details](https://www.mediafire.com/file/1cqhj10kjyvn74p/video+explaining+integrity+check.mp4/file)
 - [Video Tutorials Explaining Cisco Packet Tracer In Details](https://www.mediafire.com/file/2oh497p9de41r45/UABP4181.mp4/file)
-- [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.mediafire.com/file/2oh497p9de41r45/UABP4181.mp4/file)
+- [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.mediafire.com/file/kws2airjrnkpfw5/TURO2260.mp4/file)
 
 
 <h2> 🤳 Connect with me:</h2>
