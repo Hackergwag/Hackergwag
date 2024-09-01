@@ -8,6 +8,7 @@
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
+  - [Hardwarefix](https://github.com/Hackergwag/hardwarefix/blob/main/README.md)
   
 <h2>📜 Certifications</h2>
 
