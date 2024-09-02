@@ -6,7 +6,7 @@
   - [Cisco Packet Tracer Lab](https://github.com/Hackergwag/CiscoPacketTracerLab)
   - [Nmap And Zenmap Lab](https://github.com/Hackergwag/nmap-zenmaplab)
   - [Nessus Vulnerability Scanner Lab](https://github.com/Hackergwag/Nessus-Vulnerability-Scanner)
-  - [Nord Vpn Vitual Private Network Lab]()
+  - [Nord Vpn Vitual Private Network Lab](https://github.com/Hackergwag/Nordvpn)
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
