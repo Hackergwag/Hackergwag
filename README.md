@@ -7,6 +7,7 @@
   - [Nmap And Zenmap Lab](https://github.com/Hackergwag/nmap-zenmaplab)
   - [Nessus Vulnerability Scanner Lab](https://github.com/Hackergwag/Nessus-Vulnerability-Scanner)
   - [Nord Vpn Vitual Private Network Lab](https://github.com/Hackergwag/Nordvpn)
+  - [Bash Scripting]()
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
@@ -26,6 +27,7 @@
 - [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.mediafire.com/file/kws2airjrnkpfw5/TURO2260.mp4/file)
 - [Video Tutorials Explaining Nessus Vulnerability Scanner In Details](https://www.mediafire.com/file/p2q9gt2gw2sx05z/LYHZ6859.mp4/file)
 - [Video Tutorials Explaining Nord Vpn In Details](https://www.mediafire.com/file/m0s6hhqgh9y1jy5/RQZN5075.mp4/file)
+- [Video Tutorials Explaining Bash Script In Details](https://www.mediafire.com/file/m0s6hhqgh9y1jy5/RQZN5075.mp4/file)
 
 
 <h2> 🤳 Connect with me:</h2>
