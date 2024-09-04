@@ -27,7 +27,7 @@
 - [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.veed.io/view/c36278fe-cefa-4502-ba5c-8d222622b2a1?panel=)
 - [Video Tutorials Explaining Nessus Vulnerability Scanner In Details](https://www.veed.io/view/e45ccbf3-8c21-4869-be62-a4c560fed78f?panel=)
 - [Video Tutorials Explaining Nord Vpn In Details](https://www.veed.io/view/34b279d8-36e0-4061-8f30-235882dec13b?panel=)
-- [Video Tutorials Explaining Bash Script In Details](https://www.mediafire.com/file/m0s6hhqgh9y1jy5/RQZN5075.mp4/file)
+- [Video Tutorials Explaining Bash Script In Details](https://www.mediafire.com/file/f0tvhwg2jz8x4en/EZXM2293.mp4/file)
 
 
 <h2> 🤳 Connect with me:</h2>
