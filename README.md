@@ -9,7 +9,7 @@
   - [Nord Vpn Vitual Private Network Lab](https://github.com/Hackergwag/Nordvpn)
   - [Bash Scripting](https://github.com/Hackergwag/Bash_script/blob/main/README.md)
   - [Wireshark](https://github.com/Hackergwag/Wireshark)
-  - [Pentbox Honeypot]()
+  - [Pentbox Honeypot](https://github.com/Hackergwag/Pentbox-Honeypot)
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
