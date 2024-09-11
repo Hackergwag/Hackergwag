@@ -9,6 +9,7 @@
   - [Nord Vpn Vitual Private Network Lab](https://github.com/Hackergwag/Nordvpn)
   - [Bash Scripting](https://github.com/Hackergwag/Bash_script/blob/main/README.md)
   - [Wireshark](https://github.com/Hackergwag/Wireshark)
+  - [Pentbox Honeypot]()
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
@@ -30,6 +31,7 @@
 - [Video Tutorials Explaining Nord Vpn In Details](https://www.mediafire.com/file/s7o0z8alupd15ea/MANC5054.mp4/file)
 - [Video Tutorials Explaining Bash Script In Details](https://www.mediafire.com/file/f0tvhwg2jz8x4en/EZXM2293.mp4/file)
 - [Video Tutorials Explaining Wireshark In Details](https://www.mediafire.com/file/xzgvvq9adgjjamb/OBHK8109.mp4/file)
+- [Video Tutorials Explaining Pentbox Honeypot In Detail](https://www.mediafire.com/file/4i8ya8sy1xdzj9s/TAWT1212.mp4/file)
 
 
 <h2> 🤳 Connect with me:</h2>
