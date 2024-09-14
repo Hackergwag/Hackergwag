@@ -35,7 +35,7 @@
 - [Video Tutorials Explaining Wireshark In Details](https://www.mediafire.com/file/xzgvvq9adgjjamb/OBHK8109.mp4/file)
 - [Video Tutorials Explaining Pentbox Honeypot In Detail](https://www.mediafire.com/file/4i8ya8sy1xdzj9s/TAWT1212.mp4/file)
 - [Video Tutorials Explaining Splunk Siem In Detail](https://www.mediafire.com/file/og1cyxps1f375vm/WVIU0546.mp4/file)
--  [Video Tutorials Explaining Linux Server In Detail]()
+- [Video Tutorials Explaining Linux Server In Detail](https://www.mediafire.com/file/v1oka6ur7r3tn5w/XCEL2932.mp4/file)
 
 
 <h2> 🤳 Connect with me:</h2>
