@@ -23,6 +23,7 @@
   
 <h2>📜 Certifications</h2>
 
+- [Cisco Cyberops badge)]
 - [Cisco Cybersecurity (Scp)]![Screenshot_6-8-2024_72238_](https://github.com/user-attachments/assets/c2a040e5-aa4d-4a85-92e9-852f52931917)
 - [Cisco compTIA Network +]![Screenshot_6-8-2024_7133_](https://github.com/user-attachments/assets/00283b34-30c7-4e1e-ba68-db769a9e2617)
 - [Aig]![1](https://github.com/user-attachments/assets/c177a53b-b9c1-4fc1-ad57-833b01dd15fa)
