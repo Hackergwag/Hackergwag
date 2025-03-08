@@ -23,13 +23,14 @@
   
 <h2>📜 Certifications</h2>
 
-- [Cisco Cyberops badge)]
+- [Cisco Ccna Cyberops]![image](https://github.com/user-attachments/assets/01fb3627-024f-4228-a733-29d1ea83ebe0)
 - [Cisco Cybersecurity (Scp)]![Screenshot_6-8-2024_72238_](https://github.com/user-attachments/assets/c2a040e5-aa4d-4a85-92e9-852f52931917)
 - [Cisco compTIA Network +]![Screenshot_6-8-2024_7133_](https://github.com/user-attachments/assets/00283b34-30c7-4e1e-ba68-db769a9e2617)
 - [Aig]![1](https://github.com/user-attachments/assets/c177a53b-b9c1-4fc1-ad57-833b01dd15fa)
 - [Mastercard]![2](https://github.com/user-attachments/assets/1322ca6f-dbb3-4402-993c-d55251e752d0)
 - [Commonwealthbank]![3](https://github.com/user-attachments/assets/13f64805-6c41-479f-9748-ca3910d685f7)
 - [Jpmorganchasebank]![4](https://github.com/user-attachments/assets/d728267b-c5ea-45dd-8a99-fb7753c1054f)
+- [Cisco Cyberops badge)]![cyberops-associate](https://github.com/user-attachments/assets/1bc32d93-744f-4908-a9bc-7b05cac00f8d)
 
 
 
