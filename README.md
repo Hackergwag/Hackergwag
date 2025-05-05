@@ -16,7 +16,7 @@
   - [Python](https://github.com/Hackergwag/Python/blob/main/README.md)
   - [Html_Injection](https://github.com/Hackergwag/Html_Injection)
   - [Simple_Game_Engine_with_Python](https://github.com/Hackergwag/Simple_Game_Engine_with_Python)
-  - [Django_Python_Web]()
+  - [Django_Python_Web](https://github.com/Hackergwag/Django_Python_Web)
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
