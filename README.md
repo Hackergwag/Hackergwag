@@ -21,6 +21,7 @@
   - [Spiderfoot](https://github.com/Hackergwag/Spiderfoot)
   - [darkweb-credentials-checker-manual-automation](https://github.com/Hackergwag/darkweb-credentials-checker-manual-automation/blob/main/README.md)
   - [Deathnote-PenTest-Walkthrough](https://github.com/Hackergwag/Deathnote-PenTest-Walkthrough)
+  - [Python-HoneyPot🍯](https://github.com/Hackergwag/Deathnote-PenTest-Walkthrough)
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
