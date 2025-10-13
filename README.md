@@ -50,15 +50,7 @@
 <h2>📺 Popular Content Videos</h2>
 
 - [Video Tutorials Explaining Integrity Check In Details](https://www.mediafire.com/file/1cqhj10kjyvn74p/video+explaining+integrity+check.mp4/file)
-- [Video Tutorials Explaining Cisco Packet Tracer In Details](https://www.mediafire.com/file/y0bwh6mecv6wlbx/ONTP7088.mp4/file)
-- [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.mediafire.com/file/dhbddxsyo2rvkcf/MOBK5174+(1).mp4/file)
-- [Video Tutorials Explaining Nessus Vulnerability Scanner In Details](https://www.mediafire.com/file/ermz5g0wh84h9eu/KNBB8098.mp4/file)
-- [Video Tutorials Explaining Nord Vpn In Details](https://www.mediafire.com/file/s7o0z8alupd15ea/MANC5054.mp4/file)
-- [Video Tutorials Explaining Bash Script In Details](https://www.mediafire.com/file/f0tvhwg2jz8x4en/EZXM2293.mp4/file)
-- [Video Tutorials Explaining Wireshark In Details](https://www.mediafire.com/file/xzgvvq9adgjjamb/OBHK8109.mp4/file)
-- [Video Tutorials Explaining Pentbox Honeypot In Detail](https://www.mediafire.com/file/4i8ya8sy1xdzj9s/TAWT1212.mp4/file)
-- [Video Tutorials Explaining Splunk Siem In Detail](https://www.mediafire.com/file/og1cyxps1f375vm/WVIU0546.mp4/file)
-- [Video Tutorials Explaining Linux Server In Detail](https://www.mediafire.com/file/v1oka6ur7r3tn5w/XCEL2932.mp4/file)
+
 
 
 <h2> 🤳 Connect with me:</h2>
