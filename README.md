@@ -26,6 +26,7 @@
   - [Robert_Dev_Ops_Lab](https://github.com/Hackergwag/RobertDevOpsLab)
   - [GoPhish](https://github.com/Hackergwag/Gophish)
   - [Codeguard-Appsec-Review-Fixes](https://github.com/Hackergwag/Codeguard-Appsec-Review-Fixes)
+  - [ExploitOps](https://github.com/Hackergwag/Codeguard-Appsec-Review-Fixes)
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
   - [2Bedroom Plan In 2d And 3d](https://github.com/Hackergwag/2bedroompaln2d_3d/blob/main/README.md)
